@@ -6,7 +6,7 @@
 
 1. Clone repositori:
 ```bash
-    git clone https://github.com/username/RouterSpwn.git
+    git clone https://github.com/PrivatePwn0sec/RouterSpwn.git
     cd RouterSpwn
 ```
 
